@@ -4,7 +4,7 @@
 It provides a structured way to manage open-source tools, command-line utilities, and desktop applications across modern Mac environments. 🍺  
 
 <p align="center">
-  <a href="https://insta-macer.com/main">
+  <a href="https://brew.sh">
     <img
       src="https://img.shields.io/badge/🍺%20Get%20Homebrew%20for%20Mac-FFB300?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19"
       width="600"
