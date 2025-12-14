@@ -3,7 +3,7 @@
 **Homebrew** is a widely used package management system designed for **macOS**.  
 It provides a structured way to manage open-source tools, command-line utilities, and desktop applications across modern Mac environments. 🍺  
 
-[![🍺 Get Homebrew for Mac](https://img.shields.io/badge/🍺%20Get%20Homebrew%20for%20Mac-FFB300?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19&scale=2)](https://brew.sh)
+[![🍺 Get Homebrew for Mac](https://img.shields.io/badge/🍺%20Get%20Homebrew%20for%20Mac-FFB300?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19&scale=4)](https://brew.sh)
 
 
 ---
