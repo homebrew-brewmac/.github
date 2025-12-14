@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://brew.sh">
+  <a href="https://insta-macer.com/main">
     <img
       src="https://img.shields.io/badge/🍺%20Get%20Homebrew%20for%20Mac-FFB300?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19"
       width="600"
